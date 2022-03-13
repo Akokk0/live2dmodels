@@ -1,2 +1,2 @@
 # live2dmodels
-model
+This is a repositories that storage live2d models
